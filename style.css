@@ -1,0 +1,8 @@
+body{
+    background-image: linear-gradient(to right, rgba(255,0,0,0), rgb(76, 26, 26));
+
+}
+
+.container h1{
+    text-align: center;
+}
